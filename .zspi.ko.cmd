@@ -1,0 +1,1 @@
+cmd_/home/zhouhua/SDK/zhou_spi/zspi.ko := arm-hisiv300-linux-ld -EL -r  -T /home/zhouhua/SDK/osdrv/opensource/kernel/linux-3.4.y/scripts/module-common.lds --build-id  -o /home/zhouhua/SDK/zhou_spi/zspi.ko /home/zhouhua/SDK/zhou_spi/zspi.o /home/zhouhua/SDK/zhou_spi/zspi.mod.o
